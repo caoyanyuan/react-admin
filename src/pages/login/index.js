@@ -20,7 +20,7 @@ export default class Login extends React.Component {
             <div className="login-page">
                 <div className="login-header">
                     <div className="logo">
-                        <img src="/assets/logo-ant.svg" alt="慕课后台管理系统"/>
+                        <img src="/assets/imooc.png" alt="慕课后台管理系统"/>
                         React全家桶+AntD 共享经济热门项目后台管理系统
                     </div>
                 </div>
