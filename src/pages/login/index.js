@@ -2,6 +2,7 @@ import React from 'react'
 import {Form, Input, Button} from 'antd'
 // import Footer from '../../components/Footer'
 import './index.less'
+import LoginForm from "./loginForm"
 const FormItem = Form.Item;
 
 export default class Login extends React.Component {
@@ -35,6 +36,7 @@ export default class Login extends React.Component {
                                 </div>
                             </div>
                             <div className="title">慕课欢迎你</div>
+                            <LoginForm />
                         </div>
                     </div>
                 </div>
